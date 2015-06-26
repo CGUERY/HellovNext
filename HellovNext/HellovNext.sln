@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{005649ED-47E4-4E89-8EBA-824FD6FC1A38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6301AFD3-42DC-4C5D-8B62-B83457C85173}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HellovNext", "src\HellovNext\HellovNext.xproj", "{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEF27A9F-6506-4FB4-A6D4-C7C7D342A485} = {005649ED-47E4-4E89-8EBA-824FD6FC1A38}
+	EndGlobalSection
+EndGlobal

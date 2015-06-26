@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "HellovNext"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HellovNext-17826698-a3e6-4b4f-826c-e7ae2cd2afd8;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
